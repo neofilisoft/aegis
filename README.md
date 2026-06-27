@@ -1,4 +1,4 @@
-# Aegis Engine LTS
+# Aegis Engine
 
 <p align="center">
   <a href="https://aegisengine.org/">
@@ -36,10 +36,6 @@ Aegis was forked from Godot in [September 2024](https://github.com/Aegis-Engine/
 intending to improve upon Godot in order to fulfill its potential and contribute to the shared
 codebase of both through a more genuinely community-driven model than Godot.
 
-[Kaetram - 2D Pixel Cross-Platform MMORPG by Keros](https://kaetram.com)
-<p align="center">
-	<img src="screenshot.jpg" width="900" alt="Aegis Engine screenshot!">
-</p>
 
 ## Getting the engine
 

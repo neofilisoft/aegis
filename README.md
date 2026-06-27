@@ -1,11 +1,5 @@
 # Aegis Engine
 
-<p align="center">
-  <a href="https://aegisengine.org/">
-    <img src="logo_outlined.png" width="400" alt="Aegis Engine logo">
-  </a>
-</p>
-
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Aegis-Engine/aegis-engine)
 
 ## 2D and 3D cross-platform game engine

@@ -76,7 +76,9 @@ Testing/
 *.gdscript
 *.glsl
 *.js
-
+*.cs
+*.java
+*.jar
 
 # Other
 *.md

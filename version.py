@@ -1,0 +1,14 @@
+short_name = "aegis"
+name = "Aegis Engine LTS"
+major = 1
+minor = 26
+patch = 0
+status = "stable"
+status_version = 0
+module_config = ""
+website = "https://aegisengine.org"
+docs = "latest"
+godot_major = 4
+godot_minor = 5
+godot_patch = 2
+godot_status = "stable"

@@ -62,7 +62,7 @@ developers. Please visit our [Discord server](https://discord.gg/aegis)!
 To get started contributing to the project, see the [contributing guide](CONTRIBUTING.md).
 This document also includes guidelines for reporting bugs.
 
-Follow [Aegis on X/Twitter](Coming Soon)!
+Follow [Aegis on X/Twitter](Coming)!
 ## Documentation and demos
 
 The class reference is accessible from the Aegis editor.

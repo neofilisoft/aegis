@@ -67,3 +67,17 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# source
+*.c
+*.cpp
+*.h
+*.py
+*.gdscript
+*.glsl
+*.js
+
+
+# Other
+*.md
+*.txt

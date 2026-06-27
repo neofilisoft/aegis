@@ -12,11 +12,11 @@ be exported with one click to a number of platforms, including the major desktop
 platforms (Linux, macOS, Windows), mobile platforms (Android, iOS), as well as
 Web-based platforms and consoles.
 
-## Free, open source and community-driven
+## Free, open source
 
-Aegis is a completely free and open source fork of Godot under the very permissive MIT license.
+Aegis is a completely free and open source fork of Redot under the very permissive MIT license.
 No strings attached, no royalties, nothing. The users' games are theirs, down
-to the last line of engine code. Aegis's development is fully independent and truly
+to the engine code. Aegis's development is fully independent and truly
 community-driven, empowering users to help shape their engine to match their
 expectations.
 
@@ -26,9 +26,7 @@ Godot had been developed by [Juan Linietsky](https://github.com/reduz) and
 for several years as an in-house engine, used to publish several work-for-hire
 titles.
 
-Aegis was forked from Godot in [September 2024](https://github.com/Aegis-Engine/aegis-engine/commit/a12e9de5dd831e1ce0c839f0420b278ef0a6aa5b),
-intending to improve upon Godot in order to fulfill its potential and contribute to the shared
-codebase of both through a more genuinely community-driven model than Godot.
+Aegis was forked from Rodot in [May 2026]
 
 
 ## Getting the engine
@@ -64,7 +62,7 @@ developers. Please visit our [Discord server](https://discord.gg/aegis)!
 To get started contributing to the project, see the [contributing guide](CONTRIBUTING.md).
 This document also includes guidelines for reporting bugs.
 
-Follow [Aegis on X/Twitter](https://x.com/Aegis_Engine)!
+Follow [Aegis on X/Twitter](Coming Soon)!
 ## Documentation and demos
 
 The class reference is accessible from the Aegis editor.
